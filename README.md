@@ -1,6 +1,6 @@
 # Github Repository Links
 
 
-# azure account commands
+## Azure Commands
 
 [Azure Account Commands](https://github.com/fjstroud/azure.git)
